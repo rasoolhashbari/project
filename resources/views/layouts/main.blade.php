@@ -95,7 +95,6 @@
 
         @include('partionals.header')
         
-
         @yield('content')
 
         @include('partionals.footer')

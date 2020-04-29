@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('questions/create', function () {
-    return view('questions.create');
+    return view('questions.Design_questions');
 });
 
 Route::get('questions', function () {

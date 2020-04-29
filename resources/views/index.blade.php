@@ -63,7 +63,7 @@
     </div>
     <!-- END Your Block -->
     <!-- table user -->
-<div class="block m-5">
+<div class="block">
     <div class="block-header">
         <h3 class="block-title">جدول کاربران</h3>
     </div>
