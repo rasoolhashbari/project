@@ -111,6 +111,12 @@
                     <span class="nav-main-link-name">طراحی سوال</span>
                 </a>
             </li>
+            <li class="nav-main-item">
+                <a class="nav-main-link active" href="/questions/create2">
+                    <i class="nav-main-link-icon si si-speedometer"></i>
+                    <span class="nav-main-link-name">طراحی سوال نسخه دوم</span>
+                </a>
+            </li>
             <li class="nav-main-heading">عنوان</li>
             <li class="nav-main-item">
                 <a class="nav-main-link nav-main-link-submenu" data-toggle="submenu" aria-haspopup="true" aria-expanded="false" href="#">

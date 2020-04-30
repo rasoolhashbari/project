@@ -1,11 +1,20 @@
 @font-face {
-   font-family: vazir;
-   src: url(../fonts/font/Vazir.eot);
-   src: url(../fonts/font/Vazir.ttf);
-   src: url(../fonts/font/Vazir.woff);
-   src: url(../fonts/font/Vazir.woff2);
-   font-weight: bold;
- }
- body{
-   font-family:vazir;
- }
+  font-family: vazir;
+  src: url(../fonts/font/Vazir.eot);
+  src: url(../fonts/font/Vazir.ttf);
+  src: url(../fonts/font/Vazir.woff);
+  src: url(../fonts/font/Vazir.woff2);
+  font-weight: bold;
+}
+
+body {
+  font-family: iransansdn;
+}
+
+@font-face {
+  font-family: iransansdn;
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/iransansdn/iransansdn.eot');
+  src: url('../fonts/iransansdn/iransansdn.eot?#iefix') format('embedded-opentype'), url('../fonts/iransansdn/iransansdn.woff2') format('woff2'), url('../fonts/iransansdn/iransansdn.woff') format('woff'), url('../fonts/iransansdn/iransansdn.ttf') format('truetype')
+}
