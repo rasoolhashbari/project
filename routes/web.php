@@ -18,12 +18,16 @@ Route::get('/', function () {
 });
 
 Route::get('questions/create', function () {
-    return view('questions.Design_questions');
-});
-Route::get('questions/create2', function () {
-    return view('questions.Design_questions2');
+    return view('questions.create');
 });
 
 Route::get('questions', function () {
     return view('questions.index');
 });
+
+Route::get('login', function () {
+    return view('auth.login');
+});
+
+
+
