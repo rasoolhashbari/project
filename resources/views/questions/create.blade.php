@@ -9,13 +9,11 @@
 
         <form action="be_forms_elements.html" method="POST" enctype="multipart/form-data" onsubmit="return false;">
             <div class="row push">
-               
                 <div class="col-lg-10 offset-lg-1">
                     <div class="form-group">
                         <label for="example-textarea-input">متن سوال</label>
                         <textarea class="form-control" id="example-textarea-input" name="example-textarea-input" rows="4" placeholder="Textarea content.."></textarea>
                     </div>
-
                     <div class="form-group form-row">
                         <div class="col-md-6">
                             <label for="example-textarea-input">گزینه یک</label>
@@ -36,11 +34,9 @@
                             <textarea class="form-control" id="example-textarea-input" name="example-textarea-input" rows="4" placeholder="Textarea content.."></textarea>
                         </div>
                     </div>
-                    
                 </div>
             </div>
             <div class="row push">
-
                 <div class="col-lg-10 offset-lg-1">
                     <div class="form-grop form-row">
                         <div class="col-md-4">
