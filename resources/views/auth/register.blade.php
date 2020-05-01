@@ -33,7 +33,7 @@
                                 <div class="block-content">
                                     <div class="p-sm-3 px-lg-4 py-lg-5">
                                         <h1 class="mb-2 px-9">OneUI</h1>
-                                        <p>.لطفاً برای ایجاد یک حساب کاربری ، جزئیات زیر را پر کنید</p>
+                                        <p class=" text-right">.لطفاً برای ایجاد یک حساب کاربری ، جزئیات زیر را پر کنید</p>
 
                                         <!-- Sign Up Form -->
                                         <form class="js-validation-signup" action="be_pages_auth_all.html" method="POST">
@@ -51,9 +51,9 @@
                                                     <input type="password" class="form-control form-control-lg form-control-alt text-right" id="signup-password-confirm" name="signup-password-confirm" placeholder="تایید گذرواژه">
                                                 </div>
                                                 <div class="form-group">
-                                                    <div class="custom-control custom-checkbox">
+                                                    <div class="custom-control custom-checkbox ">
                                                         <input type="checkbox" class="custom-control-input" id="signup-terms" name="signup-terms">
-                                                        <label class="custom-control-label font-w400" for="signup-terms">من با شرایط و ضوابط موافقم </label>
+                                                        <label class="custom-control-label font-w400 ml-xl-7"for="signup-terms">من با شرایط و ضوابط موافقم </label>
                                                     </div>
                                                 </div>
                                             </div>
