@@ -32,23 +32,23 @@
                                         </div>
                                     </div>
                                     <div class="block-content">
-                                        <div class="p-sm-3 px-lg-4 py-lg-5">
-                                            <h1 class="mb-2">سایت</h1>
-                                            <p>خوش آمدید ، لطفا وارد شوید</p>
+                                        <div class="p-sm-3 px-lg-1 py-lg-5">
+                                            <h1 class="mb-2 ml-xl-9">سایت</h1>
+                                            <p class="ml-xl-8">خوش آمدید ، لطفا وارد شوید</p>
 
                                             <!-- Sign In Form -->
                                             <form class="js-validation-signin" action="be_pages_auth_all.html" method="POST">
                                                 <div class="py-3">
                                                     <div class="form-group">
-                                                        <input type="text" class="form-control form-control-alt form-control-lg" id="login-username" name="login-username" placeholder="نام کاربری">
+                                                        <input type="text" class="form-control form-control-alt form-control-lg text-right" id="login-username" name="login-username" placeholder="نام کاربری">
                                                     </div>
                                                     <div class="form-group">
-                                                        <input type="password" class="form-control form-control-alt form-control-lg" id="login-password" name="login-password" placeholder="رمز عبور">
+                                                        <input type="password" class="form-control form-control-alt form-control-lg text-right" id="login-password" name="login-password" placeholder="رمز عبور">
                                                     </div>
                                                     <div class="form-group">
                                                         <div class="custom-control custom-checkbox">
                                                             <input type="checkbox" class="custom-control-input" id="login-remember" name="login-remember">
-                                                            <label class="custom-control-label font-w400" for="login-remember">مرا به خاطر بسپار</label>
+                                                            <label class="custom-control-label font-w400 ml-xl-9" for="login-remember">مرا به خاطر بسپار</label>
                                                         </div>
                                                     </div>
                                                 </div>
