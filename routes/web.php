@@ -35,4 +35,11 @@ Route::get('register', function () {
 Route::get('403', function () {
     return view('errors.403');
 });
+Route::get('404', function () {
+    return view('errors.404');
+});
+Route::get('500', function () {
+    return view('errors.500');
+});
+
 
