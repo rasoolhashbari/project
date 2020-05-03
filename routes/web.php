@@ -32,5 +32,7 @@ Route::get('register', function () {
     return view('auth.register');
 });
 
-
+Route::get('403', function () {
+    return view('errors.403');
+});
 
