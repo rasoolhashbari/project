@@ -18,3 +18,7 @@ body {
   src: url('../fonts/iransansdn/iransansdn.eot');
   src: url('../fonts/iransansdn/iransansdn.eot?#iefix') format('embedded-opentype'), url('../fonts/iransansdn/iransansdn.woff2') format('woff2'), url('../fonts/iransansdn/iransansdn.woff') format('woff'), url('../fonts/iransansdn/iransansdn.ttf') format('truetype')
 }
+.custom-control-label::before{
+  left: -22px !important;
+  right: auto !important;
+}
