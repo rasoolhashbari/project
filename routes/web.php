@@ -41,5 +41,10 @@ Route::get('404', function () {
 Route::get('500', function () {
     return view('errors.500');
 });
-
+Route::get('index', function () {
+    return view('blog.index');
+});
+Route::get('show', function () {
+    return view('blog.show');
+});
 
